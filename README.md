@@ -3,12 +3,13 @@
 # Hi, I'm Koli Oyama!😉
 
 ## About me
-I'm a **Design Engineer** focused on building for both web 2 & 3. 
-I specialize in building apps that are user-friendly, optimized, and accessible.
+- I'm a **Design Engineer** focused on building for both **web 2 & 3**. 
+- I bridge the gap between design and code to build apps that are user-centric, optimized, and accessible.
+- I'm driven by the **why** and **how** behind a problem to create intentional design solutions.
 
 ## 🚀 What I'm Currently Working On
 
-- 🎓 **Final Semester Project**: A MERN stack Trip planner with budget optimization.
+- **Final Semester Project**: A MERN stack Trip planner with budget optimization.
 - **Web3**: Learning web3 development and exploring design patterns for Dapps.
 
 ## 🧰 Tools & Skills
