@@ -1,4 +1,4 @@
-<img width="3200" height="410" alt="koli_banner_justCreate" src="https://github.com/user-attachments/assets/1e81d6de-30ce-475b-8674-48f8862c411a" />
+<img width="2529" height="675" alt="github_banner_new" src="https://github.com/user-attachments/assets/3962e074-bd99-4025-8f87-249372604491" />
 
 # Hi, I'm Koli Oyama!😉
 
