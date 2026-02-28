@@ -9,8 +9,7 @@
 
 ## 🚀 What I'm Currently Working On
 
-- **Final Semester Project**: A MERN stack Trip planner with budget optimization.
-- **Web3**: Learning web3 development and exploring design patterns for Dapps.
+- **Final Semester Project**: A Trip planning web app with budget optimization.
 
 ## 🧰 Tools & Skills
 
